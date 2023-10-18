@@ -12,7 +12,7 @@ bool is_letter(char x) {
 }
 
 bool is_punctuation(char x) {
-    if(x >= 0 && x < 1000) return true;
+    if(x >= 0 && x <= 47 || x >= 58 && x <= 64 || x >= 91 && x <= 96 || x >= 123 && x < 128) return true;
     
 }
 
