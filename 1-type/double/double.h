@@ -1,9 +1,21 @@
 bool compare_double(double x, double y) {
-    return true; // Not implementation
-}
+    if((int)x * 10 == (int)y * 10){
+    return true;
+    }else{
+        return false;
+    }
+    }
 
 int get_nearest_int(double x) {
-    return 0; // Not implementation
+    double  i;
+    int k;
+    i = x * 10;
+    k = i;
+    if (k % 10 < 5){
+        return x + 1 - k % 10;
+    }if (k % 10 >= 5){
+    return x - k % 10; // Not implementation
+    }
 }
 
 double get_fractional(double x) {
