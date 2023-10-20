@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/build",
+  "command": "/usr/bin/gcc-12   -g -o CMakeFiles/seconds.dir/seconds/test.c.o -c \"/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/seconds/test.c\"",
+  "file": "/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/seconds/test.c"
+},
+{
+  "directory": "/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/build",
+  "command": "/usr/bin/gcc-12   -g -o CMakeFiles/clock.dir/clock/test.c.o -c \"/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/clock/test.c\"",
+  "file": "/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/clock/test.c"
+},
+{
+  "directory": "/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/build",
+  "command": "/usr/bin/gcc-12   -g -o CMakeFiles/module.dir/module/test.c.o -c \"/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/module/test.c\"",
+  "file": "/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/module/test.c"
+},
+{
+  "directory": "/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/build",
+  "command": "/usr/bin/gcc-12   -g -o CMakeFiles/decomposition.dir/decomposition/test.c.o -c \"/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/decomposition/test.c\"",
+  "file": "/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/decomposition/test.c"
+},
+{
+  "directory": "/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/build",
+  "command": "/usr/bin/gcc-12   -g -o CMakeFiles/point.dir/point/test.c.o -c \"/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/point/test.c\"",
+  "file": "/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/point/test.c"
+},
+{
+  "directory": "/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/build",
+  "command": "/usr/bin/gcc-12   -g -o CMakeFiles/char-category.dir/char-category/test.c.o -c \"/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/char-category/test.c\"",
+  "file": "/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/char-category/test.c"
+},
+{
+  "directory": "/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/build",
+  "command": "/usr/bin/gcc-12   -g -o CMakeFiles/double.dir/double/test.c.o -c \"/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/double/test.c\"",
+  "file": "/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/double/test.c"
+},
+{
+  "directory": "/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/build",
+  "command": "/usr/bin/gcc-12   -g -o CMakeFiles/byte.dir/byte/test.c.o -c \"/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/byte/test.c\"",
+  "file": "/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/byte/test.c"
+},
+{
+  "directory": "/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/build",
+  "command": "/usr/bin/gcc-12   -g -o CMakeFiles/deadline.dir/deadline/test.c.o -c \"/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/deadline/test.c\"",
+  "file": "/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/deadline/test.c"
+}
+]

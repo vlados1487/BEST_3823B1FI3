@@ -1,0 +1,1 @@
+/usr/bin/gcc-12 -g -rdynamic CMakeFiles/deadline.dir/deadline/test.c.o -o deadline 
