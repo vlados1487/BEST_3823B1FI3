@@ -1,0 +1,11 @@
+/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/build/CMakeFiles/seconds.dir
+/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/build/CMakeFiles/clock.dir
+/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/build/CMakeFiles/module.dir
+/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/build/CMakeFiles/decomposition.dir
+/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/build/CMakeFiles/point.dir
+/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/build/CMakeFiles/char-category.dir
+/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/build/CMakeFiles/double.dir
+/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/build/CMakeFiles/byte.dir
+/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/build/CMakeFiles/deadline.dir
+/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/build/CMakeFiles/edit_cache.dir
+/home/s23380033@unn.global/projects Kuvshinov/BEST_3823B1FI3/1-type/build/CMakeFiles/rebuild_cache.dir
