@@ -1,10 +1,15 @@
 
 long fib(int m){
-    int a[32] = {0, 1};
-    int n;
-    for(int i = 2; i < 32; i++){
-        if(a[i - 2] + a[i - 1] < m){
-            return a[i - 2] + a[i - 1]; break;
-        }
+    int i = 0;
+    long long n = 0;
+    long long a[47];
+    a[0] = 0;
+    a[1] = 1;
+    for(i = 0; i < 47; i++){
+        a[i + 2] = a[i] + a[i + 1];
+        if(a[i] > m)break;
+        }for(int j = i - 1; j >= 0; j--){
+            n += a[j];
+        }return n;
+
     }
-}
