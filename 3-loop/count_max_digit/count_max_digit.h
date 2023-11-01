@@ -1,9 +1,5 @@
 #include <math.h>
 
-int ya_schitay_massivi(long long l)
-{
-}
-
 char count_max_digit(long long number)
 {
     int len = 0, i = 0, max = 0, cnt = 0;
