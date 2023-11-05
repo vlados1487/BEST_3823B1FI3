@@ -21,7 +21,6 @@ char count_max_digit(long long number)
         if(a[i] == max){
             cnt += 1;
             }
-            
-            
+
             }return cnt;
 }

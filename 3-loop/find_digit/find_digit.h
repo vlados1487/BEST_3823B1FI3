@@ -5,6 +5,7 @@ char find_digit(double number, char digit){
     if(number > 1){
     while(m > 10){
         m = number / 10;
+        break;
         
 
         
