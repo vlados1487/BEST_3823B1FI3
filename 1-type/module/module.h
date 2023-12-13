@@ -1,3 +1,11 @@
 int get_module(int a, int b, int c) {
-    return 0; // Not implementation
+    int n, k;
+    n = abs(c);
+    k = (3 * 3) / 5;
+    printf("%d", k);
+
+
+    
+    
+    return k; // Not implementation
 }
