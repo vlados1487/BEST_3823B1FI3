@@ -11,5 +11,5 @@ bool point_in_triangle(double x, double y) {
 }
 
 int number_fugures(double x, double y) {
-    return 0; // Not implementation
+    return 1; // Not implementation
 }

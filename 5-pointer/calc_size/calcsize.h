@@ -1,7 +1,7 @@
 #include <math.h>
 
 int calcsize(void* memory){
-    int l = sizeof(memory);
+    int l = (int*)sizeof(memory);
     int cnt = 0;
     int* p;
     p = memory;
@@ -12,7 +12,7 @@ int calcsize(void* memory){
             cnt += l;
             break;
         }
-    }printf("%d", cnt);
+    }
     return cnt;
 }
 //z_4 - хз, как делать
