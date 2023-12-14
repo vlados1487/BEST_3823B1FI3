@@ -1,14 +1,16 @@
 #include <math.h>
 
 int* find_even(int* arr, int size){
-     for(int i = 0; i < size; i++){
+     int i;
+    for(i = 0; i < size; i++){
         if(*arr % 2 == 0){
-            return *arr;
+            return arr;
+            break;
+        }if(*arr % 2 != 0){
+            arr += 1;
         }
-        arr += 1;
-        if(i == size - 1){
-            return NULL;
-        }
+    }if(i == size){
+        return NULL;
     }
     }
 
