@@ -1,7 +1,7 @@
 #include <math.h>
 
 int calcsize(void* memory){
-    int l = (int*)sizeof(memory);
+    int l = sizeof(memory);
     int cnt = 0;
     int* p;
     p = memory;
