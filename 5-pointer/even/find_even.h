@@ -1,4 +1,5 @@
 #include <math.h>
+#include <stdlib.h>
 
 int* find_even(int* arr, int size){
      int i;
@@ -12,5 +13,5 @@ int* find_even(int* arr, int size){
     }if(i == size){
         return NULL;
     }
-    }
+}
 

@@ -1,7 +1,7 @@
 #include <math.h>
 
 int find_elem(int left, int right, int number, int max_iter){
-    int i = 0; //Счётчик итераций
+    int i = 1; //Счётчик итераций
     int cnt = 1, u, k = 0, l, r;
     l = left;
     r = right;
@@ -18,10 +18,10 @@ int find_elem(int left, int right, int number, int max_iter){
         }if(k == number){
             break;
         }
-        cnt++;
+        i++;
         
-    }if (left == 1) u = cnt * (number - 1);
-    if (left == 0) u = cnt * number;
+    }if (left == 1) u = i * (number - 1);
+    if (left == 0) u = i * number;
     return u;
 
 
