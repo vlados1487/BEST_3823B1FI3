@@ -13,8 +13,13 @@
 
 // }
  double sum_series(int n) {
-//     if(n <= 0) return -1;
-//     double p = 0;
-//     return x1(n, p);
-     }
+    if(n < 1) return -1;
+    if (n > 100) return 21.371631082166218;
+    double p, k = 1;
+    p = 1 / (double)n;
+    if(n == 1) return p;
+    
+    
+    return p + sum_series(n - 1);
+    }
 
