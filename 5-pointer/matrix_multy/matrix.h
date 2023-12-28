@@ -13,7 +13,7 @@ int* matrix_multy(int* A, int aM, int aN, int* B, int bM, int bN){
                 strok += 1;
                 j2 += bM;
                 }
-            
+        
             }
     }
 
