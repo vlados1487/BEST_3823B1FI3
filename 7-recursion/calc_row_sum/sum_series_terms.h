@@ -16,7 +16,7 @@
     if(n < 1) return -1;
     if (n > 100) return 21.371631082166218;
     double p, k = 1;
-    p = 1 / (double)n;
+    p = k / (double)n;
     if(n == 1) return p;
     
     
