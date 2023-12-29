@@ -76,5 +76,5 @@ int get_magical_value(int seconds) {
     int minutes = get_minutes(seconds);
     int second = get_seconds(seconds);
     g = 1 + day + seconds;
-    return year + month * pow(g, 2) ; // Not implementation
+    return ((year + month)/(1 + day + second))*((year + month)/(1 + day + second))+((minutes + (minutes/(1 + hours)))/(1 + hours)); // Not implementation
 }
