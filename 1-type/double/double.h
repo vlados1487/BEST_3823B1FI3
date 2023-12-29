@@ -22,14 +22,15 @@ int get_nearest_int(double x) {
 }
 
 double get_fractional(double x) {
-    double k, n, p;
-    p = (int)(x * 10000);
-    n = (int)x;
-    k = p - n * 10000;
-    while((int)k > 0){
-        k /= 10;
-        }
-
+    // double k, n, p;
+    // p = (int)(x * 10000);
+    // n = (int)x;
+    // k = p - n * 10000;
+    // while((int)k > 0){
+    //     k /= 10;
+    //     }
+    int o = (int) x;
+    if (x > 0) return x - o;
     
-    return k; // Not implementation
+    return x - o + 1; // Not implementation
 }
